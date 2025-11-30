@@ -1,4 +1,4 @@
-# Bioinformatics_Research_Project
+# Bioinformatics-Research-Project
 # Abstract
 ### Independent research N50 scores for De Bruijn Graph assembly. I generated paired and unpaired De Bruijn graphs from sequencing reads with varying k and d values
 ### for three genes from Carsonella Ruddii. Using a contig generator, I extended non-branching paths in 1-in-1-out nodes and calculated N50 scores across parameter 
